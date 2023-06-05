@@ -12,22 +12,6 @@ sections:
       username: lrapetti
       # Override your bio text from `authors/lrapetti/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -40,12 +24,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Postdoctoral Researcher
+          company: Istituto Italiano di Tecnologia
+          company_url: 'https://www.iit.it/'
+          company_logo: iit
+          location: Genoa, Italy
+          date_start: '2023-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -53,14 +37,45 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: PhD Fellow
+          company: Istituto Italiano di Tecnologia
+          company_url: 'https://www.iit.it/'
+          company_logo: iit
+          location: Genoa, Italy
+          date_start: '2019-01-01'
+          date_end: '2022-12-31'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Research Fellow
+          company: Istituto Italiano di Tecnologia
+          company_url: 'https://www.iit.it/'
+          company_logo: iit
+          location: Genoa, Italy
+          date_start: '2018-05-01'
+          date_end: '2018-12-31'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Graduate Research Fellow
+          company: University of Illinois College of Medicine
+          company_url: 'https://medicine.uic.edu/'
+          company_logo: uic
+          location: Chicago, US
+          date_start: '2016-09-01'
+          date_end: '2017-05-31'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
       columns: '2'
   - block: accomplishments

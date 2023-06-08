@@ -8,11 +8,8 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
+    url: 'https://scholar.google.it/citations?user=5M-IE-wAAAAJ&hl=en'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: CV
     url: uploads/resume.pdf
     weight: 40

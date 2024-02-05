@@ -85,11 +85,3 @@ email: 'lor.rapetti@gmail.com'
 highlight_name: true
 ---
 
-I received B.A. and M.S. degree in Biomedical Engineering from Politecnico di Milano, and M.S. degree in Bioengineering from University of Illinois. My studies and early research have been focuesed on the development of technologies for medical applications, working at my bachelor and master thesis togheter with surgeons towards computer assisted surgery applications. 
-{style="text-align: justify;"}
-
-After finishing my studies, I started working as robotics researcher at the Italian Institute of Tecnology. Since then, I have been carrying on my research in collaboration with the Artificial and Mechanical Intelligence research line, and I have been awarded Ph.D. degree in Computer Science from University of Manchester as split-site student.
-{style="text-align: justify;"}
-
-Today, in the laboratory, I am both in charge of development and supervision, and I am leading the team working at the ergoCub project. My main research interest is on physical human-robot collaboration, with a particular focus on wearable sensing technologies for human state estimation, and motion control for bipedal humanoid robots. The ultimate goal of my resesarch is to combine ambient intelligence and robotics in order to maximize the ergonomics and reduce the risk for future workers.
-{style="text-align: justify;"}

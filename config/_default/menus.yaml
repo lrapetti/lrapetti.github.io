@@ -12,7 +12,7 @@ main:
     weight: 15
   - name: Publications
     url: 'https://scholar.google.it/citations?user=5M-IE-wAAAAJ&hl=en'
-    weight: 20
+    weight: 60
   # - name: CV
   #   url: uploads/resume.pdf
   #   weight: 40

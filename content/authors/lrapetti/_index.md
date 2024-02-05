@@ -72,11 +72,11 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   # TODO: update resume
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-    display:
-      header: true
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
+  #   display:
+  #     header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'lor.rapetti@gmail.com'

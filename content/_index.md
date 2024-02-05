@@ -24,13 +24,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Robotics Engineer
+          company: Lab0
+          company_url: 'https://www.lab0.com/'
+          # company_logo: iit
+          # location: Genoa, Italy
+          date_start: '2024-01-01'
+          date_end: ''
+          description:
         - title: Postdoctoral Researcher
           company: Istituto Italiano di Tecnologia
           company_url: 'https://www.iit.it/'
           company_logo: iit
           location: Genoa, Italy
           date_start: '2023-01-01'
-          date_end: ''
+          date_end: '2023-12-31'
           description:
         - title: PhD Fellow
           company: Istituto Italiano di Tecnologia
@@ -66,7 +74,7 @@ sections:
       text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: lorenzo.rapetti@iit.com
+      email: lorenzo.rapetti@lab0.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:

@@ -15,12 +15,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post Doc
+role: Senior Robotics Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Artificial and Mechanical Intelligence Lab
-    url: https://ami.iit.it/
+  - name: Lab0
+    url: https://www.lab0.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, control and biomechanics for human-robot collaboration.

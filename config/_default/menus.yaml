@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Experience
+    url: '#experience'
+    weight: 15
   - name: Publications
     url: 'https://scholar.google.it/citations?user=5M-IE-wAAAAJ&hl=en'
     weight: 20

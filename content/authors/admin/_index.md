@@ -165,27 +165,27 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Best Whole-Body Control Paper Award 2023
+    url: https://www.ieee-ras.org/whole-body-control
+    date: '2024-11-26'
+    awarder: IEEE-RAS Technical Committees on Whole-Body Control
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Awarded for the work "[A Control Approach for Human-Robot Ergonomic Payload Lifting](/publications/a-control-approach/)" presented at ICRA 2023.
+  - title: Outstanding Physical Human-Robot Interaction Paper Finalist
+    url: https://www.ieee-ras.org/images/conferences/ICRA/ICRA_Awards_Brochures/2023_RAS_awards_booklet_REVISED_300_rev_-2_1.pdf
+    date: '2023-06-01'
+    awarder: ICRA 2023
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Finalist paper "[A Control Approach for Human-Robot Ergonomic Payload Lifting](/publications/a-control-approach/)".
+  - title: Best Paper Award
+    url: https://saiconference.com/Conferences/IntelliSys2019
+    date: '2019-09-06'
+    awarder: Intelligent Systems Conference 2019
+    icon: hero/trophy
+    summary: |
+      Awarded for the work "[Towards Partner-Aware Humanoid Robot Control Under Physical Interactions](/publications/towards-partner-aware/)".
 ---
 
 <!-- Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent. -->

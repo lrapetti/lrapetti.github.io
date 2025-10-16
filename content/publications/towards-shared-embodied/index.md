@@ -42,9 +42,9 @@ tags:
 # - Source Themes
 featured: true
 
-hugoblox:
-  ids:
-    arxiv: 
+# hugoblox:
+#   ids:
+#     arxiv: 
 
 links:
   - type: preprint

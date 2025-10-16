@@ -56,10 +56,10 @@ education:
     institution: University of Manchester
     date_start: 2019-01-01
     date_end: 2022-12-31
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: |
+      **Thesis**: Ergonomics for Physical Human-Robot Collaboration
     button:
-      text: 'Ergonomics for Physical Human-Robot Collaboration'
+      text: 'Document'
       url: 'https://research.manchester.ac.uk/en/studentTheses/ergonomics-for-physical-human-robot-collaboration'
   - area: MEng Bioengineering
     institution: University of Illinois at Chicago
@@ -73,9 +73,11 @@ education:
     date_end: 2017-12-31
     summary: |
       **Curriculum**: Electronic Technologies,
-      **Final Mark**: 110/110 _cum Laude_
+      **Final Mark**: 110/110 _cum Laude_ 
+
+      **Thesis**: Advanced Virtual Reality Interface for Navigated Prostate Biopsy
     button:
-      text: 'Advanced Virtual Reality Interface for Navigated Prostate Biopsy'
+      text: 'Document'
       url: 'https://www.politesi.polimi.it/retrieve/a81cb05c-99aa-616b-e053-1605fe0a889a/Advanced%20Virtual%20Reality%20Interface%20for%20Navigated%20Prostate%20Biopsy.pdf'
   - area: BSc Biomedical Engineering
     institution: Politecnico di Milano

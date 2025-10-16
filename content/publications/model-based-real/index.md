@@ -31,7 +31,7 @@ summary:
 
 tags:
 # - Source Themes
-featured: true
+featured: false
 
 # hugoblox:
 #   ids:

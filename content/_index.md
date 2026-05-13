@@ -29,12 +29,14 @@ sections:
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+        I am a roboticist with 8+ years of experience across **cutting-edge research** and **real-world deployment**, driven by one core challenge: _making robots that can operate intelligently alongside humans_.
+        
+        My focus has been on **humanoid robotics** in its broadest sense, spanning whole-body control algorithms, teleoperation systems, collaborative manipulation, hardware co-design, and sensing technologies. I am currently working as **Team Lead and Product Owner** at Generative Bionics, developing a new generation of humanoid robot platforms built for the real world.
 
   #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 

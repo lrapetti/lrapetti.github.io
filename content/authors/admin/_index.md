@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Robotics Engineer
+role: Team Lead
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Lab0
-    url: https://www.lab0.com/
+  - name: Generative Bionics
+    url: https://gbionics.ai/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,7 +48,6 @@ profiles:
 
 interests:
   - Robotics
-  - Human-Robot Collaboration
   - Humanoids
 
 education:
@@ -86,12 +85,23 @@ education:
     summary: |
       **Final Mark**: 110/110 _cum Laude_
 work:
+  - position: Team Lead | Product Owner
+    company_name: Generative Bionics
+    company_url: 'https://gbionics.ai/'
+    company_logo: ''
+    date_start: 2026-01-01
+    date_end: ''
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Senior Robotics Engineer
     company_name: Lab0
     company_url: 'https://www.lab0.com/'
     company_logo: ''
     date_start: 2024-01-01
-    date_end: ''
+    date_end: 2025-12-31
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit

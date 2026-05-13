@@ -11,6 +11,4 @@ links:
 summary: Development of the collaborative robot ergoCub and implementation of ambient intelligence for risk prevention in work environments.
 ---
 
-TODO
-
 <!--more-->

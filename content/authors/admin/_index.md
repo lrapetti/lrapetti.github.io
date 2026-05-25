@@ -60,12 +60,6 @@ education:
     button:
       text: 'Document'
       url: 'https://research.manchester.ac.uk/en/studentTheses/ergonomics-for-physical-human-robot-collaboration'
-  - area: MEng Bioengineering
-    institution: University of Illinois at Chicago
-    date_start: 2016-01-01
-    date_end: 2017-05-31
-    # summary: |
-    #   **GPA**: 3.9/4.0
   - area: MEng Biomedical Engineering
     institution: Politecnico di Milano
     date_start: 2015-10-01
@@ -78,6 +72,12 @@ education:
     button:
       text: 'Document'
       url: 'https://www.politesi.polimi.it/retrieve/a81cb05c-99aa-616b-e053-1605fe0a889a/Advanced%20Virtual%20Reality%20Interface%20for%20Navigated%20Prostate%20Biopsy.pdf'
+  - area: MEng Bioengineering
+    institution: University of Illinois at Chicago
+    date_start: 2016-01-01
+    date_end: 2017-05-31
+    # summary: |
+    #   **GPA**: 3.9/4.0
   - area: BSc Biomedical Engineering
     institution: Politecnico di Milano
     date_start: 2012-09-01

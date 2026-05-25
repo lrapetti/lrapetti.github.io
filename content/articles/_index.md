@@ -32,6 +32,17 @@ sections:
       title: Pubblication Awards
       username: admin
   # - block: collection
+  #   id: recent-publications
+  #   content:
+  #     title: Recent Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  # - block: collection
   #   content:
   #     title: Publications
   #     text: ''

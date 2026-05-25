@@ -30,7 +30,7 @@ sections:
   #     show_skill_percentage: false
   # - block: resume-awards
   #   content:
-  #     title: Pubblications Awards
+  #     title: Publications Awards
   #     username: admin
   # - block: resume-languages
   #   content:

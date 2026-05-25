@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Team Lead
+role: Researcher & Roboticist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Generative Bionics
+  - name: Team Lead @ Generative Bionics
     url: https://gbionics.ai/
 
 # Social network links
@@ -51,7 +51,7 @@ interests:
   - Humanoids
 
 education:
-  - area: PhD in Computer Science
+  - area: PhD Computer Science
     institution: University of Manchester
     date_start: 2019-01-01
     date_end: 2022-12-31
@@ -134,37 +134,37 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python & PyTorch
+#         description: ''
+#         percent: 95
+#         icon: code-bracket
+#       - name: Machine Learning
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: Cloud Computing (AWS/GCP)
+#         description: ''
+#         percent: 85
+#         icon: cloud
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking in the Rockies
+#         description: ''
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: Building Custom PCs
+#         description: ''
+#         percent: 90
+#         icon: cpu-chip
+#       - name: Sci-Fi Reading
+#         description: ''
+#         percent: 70
+#         icon: book-open
 
 # languages:
 #   - name: English
@@ -183,7 +183,7 @@ awards:
     awarder: IEEE-RAS Technical Committees on Whole-Body Control
     icon: hero/trophy
     summary: |
-      Awarded for the work "[A Control Approach for Human-Robot Ergonomic Payload Lifting](/publications/a-control-approach/)" presented at ICRA 2023.
+      Awarded for the work "[A Control Approach for Human-Robot Ergonomic Payload Lifting](/publications/a-control-approach/)".
   - title: Outstanding Physical Human-Robot Interaction Paper Finalist
     url: https://www.ieee-ras.org/images/conferences/ICRA/ICRA_Awards_Brochures/2023_RAS_awards_booklet_REVISED_300_rev_-2_1.pdf
     date: '2023-06-01'

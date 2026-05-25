@@ -34,9 +34,9 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        I am a roboticist with 8+ years of experience across **cutting-edge research** and **real-world deployment**, driven by one core challenge: _making robots that can operate intelligently alongside humans_.
+        I am a researcher and roboticist with 8+ years of experience across **cutting-edge research** and **real-world deployment**, driven by one core challenge: _making robots that can operate intelligently alongside humans_.
         
-        My focus has been on **humanoid robotics** in its broadest sense, spanning whole-body control algorithms, teleoperation systems, collaborative manipulation, hardware co-design, and sensing technologies. I am currently working as **Team Lead and Product Owner** at Generative Bionics, developing a new generation of humanoid robot platforms built for the real world.
+        My focus has been on **humanoid robotics** in its broadest sense, spanning _whole-body control algorithms_, _teleoperation systems_, _collaborative manipulation_, _hardware co-design_, _sensing technologies_, and _wearables_. I am currently working as **Team Lead and Product Owner** at Generative Bionics, developing a new generation of humanoid robot platforms.
 
   #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 

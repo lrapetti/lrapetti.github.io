@@ -29,7 +29,7 @@ sections:
   - block: resume-awards
     id: awards
     content:
-      title: Pubblication Awards
+      title: Publication Awards
       username: admin
   # - block: collection
   #   id: recent-publications
